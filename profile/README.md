@@ -14,6 +14,18 @@ This guide explains how to restore online functionality by replacing:
 global-metadata.dat
 ```
 
+If you cannot get it to work you can install the APK.
+
+- ConspiracyRick.com Domain Name
+- Achievement Support
+- 32 Bit Support
+
+[Version: 2.41.0](https://github.com/Project-Pocket-Mortys/Welcome/releases/download/V2.41.0/Pocket.Mortys.apk)
+- Missing UI features like the Shop icon and displaying currency.
+
+[Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.apk)
+- Has UI features.
+
 Works on:
 - 📱 Android phones (Pixel, Samsung, Nothing, Xiaomi, etc.)
 - 📟 Tablets
@@ -23,16 +35,11 @@ Works on:
 
 # ⚠️ Important Warnings
 
-<details>
-<summary>Click to expand warnings</summary>
-
 - Android 11+ restricts access to `Android/data`
 - ADB cannot always write directly to game folders
 - Some devices require manual file movement
 - Root is NOT required but may improve compatibility
 - BlueStacks may block direct filesystem writes depending on version
-
-</details>
 
 ---
 
@@ -42,7 +49,7 @@ Works on:
 
 ## 📥 Required File
 
-### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/Downloads/releases/download/Global-Metadata/global-metadata.dat)**
+### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/metadata/global-metadata.dat)**
 
 # 📦 Method 1 — File Manager (Easiest)
 
