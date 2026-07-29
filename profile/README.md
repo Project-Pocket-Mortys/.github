@@ -53,9 +53,6 @@ Works on:
 
 # 📦 Method 1 — File Manager (Easiest)
 
-<details>
-<summary>Click to expand</summary>
-
 Download:
 ```
 global-metadata.dat
@@ -70,14 +67,9 @@ If folders don’t exist, create them manually.
 
 Restart the game.
 
-</details>
-
 ---
 
 # 🔌 Method 2 — ADB (Universal Method)
-
-<details>
-<summary>Click to expand</summary>
 
 ## 📥 Install ADB Platform Tools
 
@@ -100,14 +92,9 @@ Push file:
 adb push "C:\Users\yourpcusername\Downloads\global-metadata.dat" /sdcard/Android/data/com.turner.pocketmorties/files/il2cpp/Metadata/
 ```
 
-</details>
-
 ---
 
 # 🖥️ Method 3 — BlueStacks Emulator
-
-<details>
-<summary>Click to expand</summary>
 
 Enable ADB in BlueStacks settings.
 
@@ -127,8 +114,6 @@ Move via shell:
 adb shell
 cp /sdcard/Download/global-metadata.dat /sdcard/Android/data/com.turner.pocketmorties/files/il2cpp/Metadata/
 ```
-
-</details>
 
 ---
 
