@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=server&logoColor=white" alt="Work In Progress" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/Project-Pocket-Mortys/status-page/master/history/summary.json&query=$[0].status&label=Server&style=for-the-badge&up=online&colorByValue=true&color.online=brightgreen&color.down=red" alt="Server Status" />
+  <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Project-Pocket-Mortys/status-page/master/badges/pocket-mortys-server.json&style=for-the-badge" alt="Server Status" />
 </p>
 
 This guide explains how to restore online functionality by replacing:
