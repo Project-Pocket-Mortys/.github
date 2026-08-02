@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-work%20in%20progress-yellow?style=for-the-badge&logo=server&logoColor=white" alt="Work In Progress" />
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/Project-Pocket-Mortys/status-page/master/badges/pocket-mortys-server.json&style=for-the-badge" alt="Server Status" />
+  <img src="https://img.shields.io/badge/Project-Work%20In%20Progress-yellow?style=for-the-badge" alt="Project Status" />
 </p>
 
 This guide explains how to restore online functionality by replacing:
