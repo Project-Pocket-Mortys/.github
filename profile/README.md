@@ -50,7 +50,7 @@ Works on:
 
 ## 📥 Required File
 
-### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/metadata/global-metadata.dat)**
+### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
 
 # 📦 Method 1 — File Manager (Easiest)
 
