@@ -20,6 +20,7 @@ If you cannot get it to work you can install the APK.
 - ConspiracyRick.com Domain Name
 - Achievement Support
 - 32 Bit Support
+- Fixed Morty Defense bug
 
 👉 [Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.V2.41.0.apk)
 - Missing UI features like the Shop icon and displaying currency.
