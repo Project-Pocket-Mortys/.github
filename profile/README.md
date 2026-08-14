@@ -21,10 +21,10 @@ If you cannot get it to work you can install the APK.
 - Achievement Support
 - 32 Bit Support
 
-👉 [Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.apk)
+👉 [Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.V2.41.0.apk)
 - Missing UI features like the Shop icon and displaying currency.
 
-👉 [Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.apk)
+👉 [Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.V2.40.2.apk)
 - Has UI features.
 
 Works on:
