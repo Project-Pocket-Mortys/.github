@@ -158,4 +158,3 @@ PC → ADB push → /sdcard/Download → Manual move
 
 - /sdcard/ = Internal Storage
 - Android/data is restricted on modern Android versions
-
