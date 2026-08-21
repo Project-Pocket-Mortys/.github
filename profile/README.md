@@ -22,16 +22,31 @@ If you cannot get it to work you can install the APK.
 - 32 Bit Support
 - Fixed Morty Defense bug
 
-👉 [Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.V2.41.0.apk)
+👉 [Android Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.V2.41.0.apk)
 - Missing UI features like the Shop icon and displaying currency.
 
-👉 [Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.V2.40.2.apk)
+👉 [Android Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.V2.40.2.apk)
 - Has UI features.
 
+👉 [iOS Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/iOS/Pocket.Mortys-2.41.0.ipa)
+- Missing UI features like the Shop icon and displaying currency.
+
 Works on:
-- 📱 Android phones (Pixel, Samsung, Nothing, Xiaomi, etc.)
+- 📱 Android phones (iPhone, Pixel, Samsung, Nothing, Xiaomi, etc.)
 - 📟 Tablets
 - 🖥️ BlueStacks Android emulator for Windows and macOS
+
+## 📱 Install Pocket Mortys
+
+### 👉 **[Official App (Google Play)](https://play.google.com/store/apps/details?id=com.turner.pocketmorties&hl=en)**
+
+### 👉 **[Official App (Appstore)](https://apps.apple.com/us/app/rick-and-morty-pocket-mortys/id992640880)**
+
+## 📥 Required File
+
+### 👉 **[Download Android global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
+
+### 👉 **[Download iOS global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
 
 ---
 
@@ -45,13 +60,9 @@ Works on:
 
 ---
 
-## 📱 Install Pocket Mortys
+# iPhone instructions (Coming soon!)
 
-### 👉 **[Official App (Google Play)](https://play.google.com/store/apps/details?id=com.turner.pocketmorties&hl=en)**
-
-## 📥 Required File
-
-### 👉 **[Download global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
+# Android instructions
 
 # 📦 Method 1 — File Manager (Easiest)
 
