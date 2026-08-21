@@ -1,0 +1,1252 @@
+{
+  "anatomyparkbundle2": {
+    "id": "anatomyparkbundle2",
+    "crc": "3019636831",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anatomyparkbundle2.assetbundle"
+  },
+  "anime101": {
+    "id": "anime101",
+    "crc": "2130244504",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime101.assetbundle"
+  },
+  "anime102": {
+    "id": "anime102",
+    "crc": "959142237",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime102.assetbundle"
+  },
+  "anime103": {
+    "id": "anime103",
+    "crc": "171112377",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime103.assetbundle"
+  },
+  "anime104": {
+    "id": "anime104",
+    "crc": "2575919048",
+    "version": "6",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime104.assetbundle"
+  },
+  "anime105": {
+    "id": "anime105",
+    "crc": "2991889586",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime105.assetbundle"
+  },
+  "anime106": {
+    "id": "anime106",
+    "crc": "1171962664",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime106.assetbundle"
+  },
+  "anime107": {
+    "id": "anime107",
+    "crc": "3681644591",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime107.assetbundle"
+  },
+  "anime108": {
+    "id": "anime108",
+    "crc": "137945349",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime108.assetbundle"
+  },
+  "anime109": {
+    "id": "anime109",
+    "crc": "845153708",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime109.assetbundle"
+  },
+  "anime110": {
+    "id": "anime110",
+    "crc": "2060558211",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime110.assetbundle"
+  },
+  "anime110raidbossgiantbug": {
+    "id": "anime110raidbossgiantbug",
+    "crc": "2360195726",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/anime110raidbossgiantbug.assetbundle"
+  },
+  "appdata": {
+    "id": "appdata",
+    "crc": "287957919",
+    "version": "1040",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/appdata.assetbundle"
+  },
+  "au001": {
+    "id": "au001",
+    "crc": "3075969191",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au001.assetbundle"
+  },
+  "au002": {
+    "id": "au002",
+    "crc": "1216682730",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au002.assetbundle"
+  },
+  "au003": {
+    "id": "au003",
+    "crc": "1557589427",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au003.assetbundle"
+  },
+  "au004": {
+    "id": "au004",
+    "crc": "1934346401",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au004.assetbundle"
+  },
+  "au005": {
+    "id": "au005",
+    "crc": "2773506366",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au005.assetbundle"
+  },
+  "au006": {
+    "id": "au006",
+    "crc": "2905127346",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au006.assetbundle"
+  },
+  "au007": {
+    "id": "au007",
+    "crc": "329308428",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au007.assetbundle"
+  },
+  "au008": {
+    "id": "au008",
+    "crc": "412630387",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au008.assetbundle"
+  },
+  "au009": {
+    "id": "au009",
+    "crc": "3538760966",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au009.assetbundle"
+  },
+  "au010": {
+    "id": "au010",
+    "crc": "3637839058",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au010.assetbundle"
+  },
+  "au011": {
+    "id": "au011",
+    "crc": "2785571309",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au011.assetbundle"
+  },
+  "au012": {
+    "id": "au012",
+    "crc": "1326168573",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au012.assetbundle"
+  },
+  "au013": {
+    "id": "au013",
+    "crc": "622567462",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au013.assetbundle"
+  },
+  "au014": {
+    "id": "au014",
+    "crc": "4020737768",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au014.assetbundle"
+  },
+  "au015": {
+    "id": "au015",
+    "crc": "2117430500",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/au015.assetbundle"
+  },
+  "ep301": {
+    "id": "ep301",
+    "crc": "1634458686",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep301.assetbundle"
+  },
+  "ep302": {
+    "id": "ep302",
+    "crc": "322198133",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep302.assetbundle"
+  },
+  "ep303": {
+    "id": "ep303",
+    "crc": "3201609428",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep303.assetbundle"
+  },
+  "ep304": {
+    "id": "ep304",
+    "crc": "2488813411",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep304.assetbundle"
+  },
+  "ep305": {
+    "id": "ep305",
+    "crc": "2818102701",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep305.assetbundle"
+  },
+  "ep306": {
+    "id": "ep306",
+    "crc": "1186114215",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep306.assetbundle"
+  },
+  "ep307": {
+    "id": "ep307",
+    "crc": "751714693",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep307.assetbundle"
+  },
+  "ep308": {
+    "id": "ep308",
+    "crc": "2268066150",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep308.assetbundle"
+  },
+  "ep309": {
+    "id": "ep309",
+    "crc": "3184333999",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep309.assetbundle"
+  },
+  "ep310": {
+    "id": "ep310",
+    "crc": "3207015362",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep310.assetbundle"
+  },
+  "ep401": {
+    "id": "ep401",
+    "crc": "707608590",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep401.assetbundle"
+  },
+  "ep402": {
+    "id": "ep402",
+    "crc": "2290869883",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep402.assetbundle"
+  },
+  "ep403": {
+    "id": "ep403",
+    "crc": "2162985713",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep403.assetbundle"
+  },
+  "ep404": {
+    "id": "ep404",
+    "crc": "682083466",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep404.assetbundle"
+  },
+  "ep405": {
+    "id": "ep405",
+    "crc": "2075334014",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep405.assetbundle"
+  },
+  "ep406": {
+    "id": "ep406",
+    "crc": "3619390131",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep406.assetbundle"
+  },
+  "ep407": {
+    "id": "ep407",
+    "crc": "884592324",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep407.assetbundle"
+  },
+  "ep408": {
+    "id": "ep408",
+    "crc": "1839097478",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep408.assetbundle"
+  },
+  "ep409": {
+    "id": "ep409",
+    "crc": "823014748",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep409.assetbundle"
+  },
+  "ep410": {
+    "id": "ep410",
+    "crc": "1953766285",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep410.assetbundle"
+  },
+  "ep501": {
+    "id": "ep501",
+    "crc": "1113760186",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep501.assetbundle"
+  },
+  "ep502": {
+    "id": "ep502",
+    "crc": "1547389601",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep502.assetbundle"
+  },
+  "ep503": {
+    "id": "ep503",
+    "crc": "2971972064",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep503.assetbundle"
+  },
+  "ep504": {
+    "id": "ep504",
+    "crc": "984581907",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep504.assetbundle"
+  },
+  "ep505": {
+    "id": "ep505",
+    "crc": "953680605",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep505.assetbundle"
+  },
+  "ep506": {
+    "id": "ep506",
+    "crc": "2478462069",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep506.assetbundle"
+  },
+  "ep507": {
+    "id": "ep507",
+    "crc": "3909555363",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep507.assetbundle"
+  },
+  "ep508": {
+    "id": "ep508",
+    "crc": "1081478613",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep508.assetbundle"
+  },
+  "ep5final": {
+    "id": "ep5final",
+    "crc": "2256024058",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep5final.assetbundle"
+  },
+  "ep601": {
+    "id": "ep601",
+    "crc": "1474874399",
+    "version": "8",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep601.assetbundle"
+  },
+  "ep602": {
+    "id": "ep602",
+    "crc": "510455826",
+    "version": "1004",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep602.assetbundle"
+  },
+  "ep603": {
+    "id": "ep603",
+    "crc": "4135818825",
+    "version": "11",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep603.assetbundle"
+  },
+  "ep604": {
+    "id": "ep604",
+    "crc": "831330381",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep604.assetbundle"
+  },
+  "ep605": {
+    "id": "ep605",
+    "crc": "4070231199",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep605.assetbundle"
+  },
+  "ep606": {
+    "id": "ep606",
+    "crc": "43200594",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep606.assetbundle"
+  },
+  "ep607": {
+    "id": "ep607",
+    "crc": "322905577",
+    "version": "8",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep607.assetbundle"
+  },
+  "ep608": {
+    "id": "ep608",
+    "crc": "3386708261",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep608.assetbundle"
+  },
+  "ep609": {
+    "id": "ep609",
+    "crc": "397567048",
+    "version": "8",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep609.assetbundle"
+  },
+  "ep610": {
+    "id": "ep610",
+    "crc": "1389344922",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep610.assetbundle"
+  },
+  "ep701": {
+    "id": "ep701",
+    "crc": "109533178",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep701.assetbundle"
+  },
+  "ep702": {
+    "id": "ep702",
+    "crc": "3758159964",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep702.assetbundle"
+  },
+  "ep703": {
+    "id": "ep703",
+    "crc": "386977938",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep703.assetbundle"
+  },
+  "ep704": {
+    "id": "ep704",
+    "crc": "2901299105",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep704.assetbundle"
+  },
+  "ep705": {
+    "id": "ep705",
+    "crc": "4183300818",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep705.assetbundle"
+  },
+  "ep706": {
+    "id": "ep706",
+    "crc": "1139549391",
+    "version": "2002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep706.assetbundle"
+  },
+  "ep707": {
+    "id": "ep707",
+    "crc": "1903248739",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep707.assetbundle"
+  },
+  "ep708": {
+    "id": "ep708",
+    "crc": "2759042920",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep708.assetbundle"
+  },
+  "ep709": {
+    "id": "ep709",
+    "crc": "300993829",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep709.assetbundle"
+  },
+  "ep710": {
+    "id": "ep710",
+    "crc": "3887737621",
+    "version": "2002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep710.assetbundle"
+  },
+  "ep801": {
+    "id": "ep801",
+    "crc": "4100852838",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep801.assetbundle"
+  },
+  "ep802": {
+    "id": "ep802",
+    "crc": "2970004944",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep802.assetbundle"
+  },
+  "ep803": {
+    "id": "ep803",
+    "crc": "615101259",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep803.assetbundle"
+  },
+  "ep804": {
+    "id": "ep804",
+    "crc": "870933239",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep804.assetbundle"
+  },
+  "ep805": {
+    "id": "ep805",
+    "crc": "1232338620",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep805.assetbundle"
+  },
+  "ep806": {
+    "id": "ep806",
+    "crc": "3999688951",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep806.assetbundle"
+  },
+  "ep807": {
+    "id": "ep807",
+    "crc": "3803435313",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep807.assetbundle"
+  },
+  "ep808": {
+    "id": "ep808",
+    "crc": "4153828482",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep808.assetbundle"
+  },
+  "ep809": {
+    "id": "ep809",
+    "crc": "3489484303",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep809.assetbundle"
+  },
+  "ep810": {
+    "id": "ep810",
+    "crc": "3751415600",
+    "version": "1002",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/ep810.assetbundle"
+  },
+  "froopylandbundle2": {
+    "id": "froopylandbundle2",
+    "crc": "3801585096",
+    "version": "5",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/froopylandbundle2.assetbundle"
+  },
+  "mpdata": {
+    "id": "mpdata",
+    "crc": "1648915479",
+    "version": "1050",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/mpdata.assetbundle"
+  },
+  "preload": {
+    "id": "preload",
+    "crc": "2904611808",
+    "version": "218",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/preload.assetbundle"
+  },
+  "psh001": {
+    "id": "psh001",
+    "crc": "206020047",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh001.assetbundle"
+  },
+  "psh002": {
+    "id": "psh002",
+    "crc": "2700327355",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh002.assetbundle"
+  },
+  "psh003": {
+    "id": "psh003",
+    "crc": "4052529254",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh003.assetbundle"
+  },
+  "psh004": {
+    "id": "psh004",
+    "crc": "3151443622",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh004.assetbundle"
+  },
+  "psh005": {
+    "id": "psh005",
+    "crc": "1684074720",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh005.assetbundle"
+  },
+  "psh006": {
+    "id": "psh006",
+    "crc": "3022737801",
+    "version": "309",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh006.assetbundle"
+  },
+  "psh008": {
+    "id": "psh008",
+    "crc": "695439705",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh008.assetbundle"
+  },
+  "psh009": {
+    "id": "psh009",
+    "crc": "2108632549",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh009.assetbundle"
+  },
+  "psh010": {
+    "id": "psh010",
+    "crc": "2359087291",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh010.assetbundle"
+  },
+  "psh011": {
+    "id": "psh011",
+    "crc": "3296332145",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh011.assetbundle"
+  },
+  "psh012": {
+    "id": "psh012",
+    "crc": "1934178639",
+    "version": "13",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh012.assetbundle"
+  },
+  "psh013": {
+    "id": "psh013",
+    "crc": "4140473307",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh013.assetbundle"
+  },
+  "psh014": {
+    "id": "psh014",
+    "crc": "3237037136",
+    "version": "11",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh014.assetbundle"
+  },
+  "psh015": {
+    "id": "psh015",
+    "crc": "1043471771",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh015.assetbundle"
+  },
+  "psh016": {
+    "id": "psh016",
+    "crc": "30370326",
+    "version": "12",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh016.assetbundle"
+  },
+  "psh017": {
+    "id": "psh017",
+    "crc": "3833272687",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh017.assetbundle"
+  },
+  "psh018": {
+    "id": "psh018",
+    "crc": "1240414947",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh018.assetbundle"
+  },
+  "psh019": {
+    "id": "psh019",
+    "crc": "215846596",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh019.assetbundle"
+  },
+  "psh020": {
+    "id": "psh020",
+    "crc": "796887595",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh020.assetbundle"
+  },
+  "psh021": {
+    "id": "psh021",
+    "crc": "2691231923",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh021.assetbundle"
+  },
+  "psh022": {
+    "id": "psh022",
+    "crc": "3169049720",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh022.assetbundle"
+  },
+  "psh023": {
+    "id": "psh023",
+    "crc": "46417856",
+    "version": "9",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh023.assetbundle"
+  },
+  "psh024": {
+    "id": "psh024",
+    "crc": "4007277583",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh024.assetbundle"
+  },
+  "psh025": {
+    "id": "psh025",
+    "crc": "774729577",
+    "version": "7",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh025.assetbundle"
+  },
+  "psh026": {
+    "id": "psh026",
+    "crc": "2650111596",
+    "version": "6",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh026.assetbundle"
+  },
+  "psh027": {
+    "id": "psh027",
+    "crc": "3048438014",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/psh027.assetbundle"
+  },
+  "spdata": {
+    "id": "spdata",
+    "crc": "41084779",
+    "version": "1045",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/spdata.assetbundle"
+  },
+  "text": {
+    "id": "text",
+    "crc": "2656356165",
+    "version": "1007",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/text.assetbundle"
+  },
+  "tg001": {
+    "id": "tg001",
+    "crc": "3104810404",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg001.assetbundle"
+  },
+  "tg002": {
+    "id": "tg002",
+    "crc": "701505906",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg002.assetbundle"
+  },
+  "tg003": {
+    "id": "tg003",
+    "crc": "3087200895",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg003.assetbundle"
+  },
+  "tg004": {
+    "id": "tg004",
+    "crc": "2776324840",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg004.assetbundle"
+  },
+  "tg005": {
+    "id": "tg005",
+    "crc": "937883121",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg005.assetbundle"
+  },
+  "tg006": {
+    "id": "tg006",
+    "crc": "4148453534",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg006.assetbundle"
+  },
+  "tg007": {
+    "id": "tg007",
+    "crc": "970582739",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg007.assetbundle"
+  },
+  "tg008": {
+    "id": "tg008",
+    "crc": "706672418",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg008.assetbundle"
+  },
+  "tg009": {
+    "id": "tg009",
+    "crc": "926822191",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg009.assetbundle"
+  },
+  "tg010": {
+    "id": "tg010",
+    "crc": "1757300665",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg010.assetbundle"
+  },
+  "tg011": {
+    "id": "tg011",
+    "crc": "3384841012",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg011.assetbundle"
+  },
+  "tg012": {
+    "id": "tg012",
+    "crc": "3754250038",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg012.assetbundle"
+  },
+  "tg013": {
+    "id": "tg013",
+    "crc": "1454553773",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg013.assetbundle"
+  },
+  "tg014": {
+    "id": "tg014",
+    "crc": "2683384727",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg014.assetbundle"
+  },
+  "tg015": {
+    "id": "tg015",
+    "crc": "1745400980",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg015.assetbundle"
+  },
+  "tg016": {
+    "id": "tg016",
+    "crc": "1269361700",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg016.assetbundle"
+  },
+  "tg018": {
+    "id": "tg018",
+    "crc": "1684950424",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/tg018.assetbundle"
+  },
+  "v1.0.0": {
+    "id": "v1.0.0",
+    "crc": "2278054076",
+    "version": "268",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.0.0.assetbundle"
+  },
+  "v1.1.0": {
+    "id": "v1.1.0",
+    "crc": "1355335521",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.1.0.assetbundle"
+  },
+  "v1.10.0": {
+    "id": "v1.10.0",
+    "crc": "767723176",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.10.0.assetbundle"
+  },
+  "v1.2.0": {
+    "id": "v1.2.0",
+    "crc": "1129824211",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.2.0.assetbundle"
+  },
+  "v1.3.0": {
+    "id": "v1.3.0",
+    "crc": "1291029893",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.3.0.assetbundle"
+  },
+  "v1.4.0": {
+    "id": "v1.4.0",
+    "crc": "1676916501",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.4.0.assetbundle"
+  },
+  "v1.6.0": {
+    "id": "v1.6.0",
+    "crc": "3220188344",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.6.0.assetbundle"
+  },
+  "v1.7.0": {
+    "id": "v1.7.0",
+    "crc": "2354075151",
+    "version": "3100008",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.7.0.assetbundle"
+  },
+  "v1.8.0": {
+    "id": "v1.8.0",
+    "crc": "3090632175",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.8.0.assetbundle"
+  },
+  "v1.9.0": {
+    "id": "v1.9.0",
+    "crc": "3832552277",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v1.9.0.assetbundle"
+  },
+  "v2.0.0": {
+    "id": "v2.0.0",
+    "crc": "3041763110",
+    "version": "308",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.0.0.assetbundle"
+  },
+  "v2.2.0": {
+    "id": "v2.2.0",
+    "crc": "169051650",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.2.0.assetbundle"
+  },
+  "v2.35.0": {
+    "id": "v2.35.0",
+    "crc": "86638305",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.35.0.assetbundle"
+  },
+  "v2.36.0": {
+    "id": "v2.36.0",
+    "crc": "3764718150",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.36.0.assetbundle"
+  },
+  "v2.37.0": {
+    "id": "v2.37.0",
+    "crc": "2342043887",
+    "version": "4",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.37.0.assetbundle"
+  },
+  "v2.38.0": {
+    "id": "v2.38.0",
+    "crc": "440888234",
+    "version": "3",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.38.0.assetbundle"
+  },
+  "v2.4.0": {
+    "id": "v2.4.0",
+    "crc": "9338813",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.4.0.assetbundle"
+  },
+  "v2.5.0": {
+    "id": "v2.5.0",
+    "crc": "143818585",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.5.0.assetbundle"
+  },
+  "v2.7.0": {
+    "id": "v2.7.0",
+    "crc": "812864580",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.7.0.assetbundle"
+  },
+  "v2.9.0": {
+    "id": "v2.9.0",
+    "crc": "3950109884",
+    "version": "1003",
+    "url": "https://project-pocket-mortys.github.io/AssetBundles/AssetBundle-android_1011-ios_1011__7b175320/iOS/v2.9.0.assetbundle"
+  },
+  "assetBundleTags": {
+    "preload": [
+      "appdata",
+      "spdata",
+      "mpdata",
+      "text",
+      "preload"
+    ],
+    "post_tutorial": [
+      "au001",
+      "au002",
+      "au003",
+      "au004",
+      "au005",
+      "au006",
+      "au007",
+      "au008",
+      "au009",
+      "au010",
+      "au011",
+      "au012",
+      "au013",
+      "au014",
+      "au015",
+      "ep301",
+      "ep302",
+      "ep303",
+      "ep304",
+      "ep305",
+      "ep306",
+      "ep307",
+      "ep308",
+      "ep309",
+      "ep310",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.10.0",
+      "v1.2.0",
+      "v1.3.0",
+      "v1.4.0",
+      "v1.6.0",
+      "v1.7.0",
+      "v1.8.0",
+      "v1.9.0",
+      "v2.0.0",
+      "v2.2.0",
+      "v2.4.0",
+      "v2.5.0",
+      "v2.7.0",
+      "v2.9.0",
+      "tg001",
+      "tg002",
+      "tg003",
+      "tg004",
+      "tg005",
+      "tg006",
+      "tg007",
+      "tg008",
+      "tg009",
+      "tg010",
+      "tg011",
+      "tg012",
+      "tg013",
+      "tg014",
+      "tg015",
+      "tg016",
+      "tg018",
+      "ep401",
+      "ep402",
+      "ep403",
+      "ep404",
+      "ep405",
+      "ep406",
+      "ep407",
+      "ep408",
+      "ep409",
+      "ep410",
+      "psh001",
+      "psh002",
+      "psh003",
+      "psh004",
+      "psh005",
+      "psh006",
+      "psh008",
+      "psh009",
+      "psh010",
+      "psh011",
+      "psh012",
+      "psh013",
+      "psh014",
+      "psh015",
+      "psh016",
+      "psh017",
+      "psh018",
+      "psh019",
+      "psh020",
+      "psh021",
+      "psh022",
+      "psh023",
+      "psh024",
+      "psh025",
+      "psh026",
+      "ep501",
+      "ep502",
+      "ep503",
+      "ep504",
+      "ep505",
+      "ep506",
+      "ep507",
+      "ep508",
+      "ep508",
+      "ep5final",
+      "ep601",
+      "ep602",
+      "ep603",
+      "ep604",
+      "ep605",
+      "ep606",
+      "ep607",
+      "ep608",
+      "ep609",
+      "ep610",
+      "ep701",
+      "ep702",
+      "ep703",
+      "ep704",
+      "ep705",
+      "ep706",
+      "ep707",
+      "ep708",
+      "ep709",
+      "ep710",
+      "anime101",
+      "anime102",
+      "anime103",
+      "anime104",
+      "anime105",
+      "anime106",
+      "anime107",
+      "anime108",
+      "anime109",
+      "anime110",
+      "anime110raidbossgiantbug",
+      "v2.35.0",
+      "v2.36.0",
+      "v2.37.0",
+      "anatomyparkbundle2",
+      "v2.38.0",
+      "froopylandbundle2",
+      "ep801",
+      "ep802",
+      "ep803",
+      "ep804",
+      "ep805",
+      "ep806",
+      "ep807",
+      "ep808",
+      "ep809",
+      "ep810",
+      "psh027"
+    ],
+    "everything": [
+      "appdata",
+      "spdata",
+      "mpdata",
+      "text",
+      "preload",
+      "au001",
+      "au002",
+      "au003",
+      "au004",
+      "au005",
+      "au006",
+      "au007",
+      "au008",
+      "au009",
+      "au010",
+      "au011",
+      "au012",
+      "au013",
+      "au014",
+      "au015",
+      "ep301",
+      "ep302",
+      "ep303",
+      "ep304",
+      "ep305",
+      "ep306",
+      "ep307",
+      "ep308",
+      "ep309",
+      "ep310",
+      "v1.0.0",
+      "v1.1.0",
+      "v1.10.0",
+      "v1.2.0",
+      "v1.3.0",
+      "v1.4.0",
+      "v1.6.0",
+      "v1.7.0",
+      "v1.8.0",
+      "v1.9.0",
+      "v2.0.0",
+      "v2.2.0",
+      "v2.4.0",
+      "v2.5.0",
+      "v2.7.0",
+      "v2.9.0",
+      "tg001",
+      "tg002",
+      "tg003",
+      "tg004",
+      "tg005",
+      "tg006",
+      "tg007",
+      "tg008",
+      "tg009",
+      "tg010",
+      "tg011",
+      "tg012",
+      "tg013",
+      "tg014",
+      "tg015",
+      "tg016",
+      "tg018",
+      "ep401",
+      "ep402",
+      "ep403",
+      "ep404",
+      "ep405",
+      "ep406",
+      "ep407",
+      "ep408",
+      "ep409",
+      "ep410",
+      "psh001",
+      "psh002",
+      "psh003",
+      "psh004",
+      "psh005",
+      "psh006",
+      "psh008",
+      "psh009",
+      "psh010",
+      "psh011",
+      "psh012",
+      "psh013",
+      "psh014",
+      "psh015",
+      "psh016",
+      "psh017",
+      "psh018",
+      "psh019",
+      "psh020",
+      "psh021",
+      "psh022",
+      "psh023",
+      "psh024",
+      "psh025",
+      "psh026",
+      "ep501",
+      "ep502",
+      "ep503",
+      "ep504",
+      "ep505",
+      "ep506",
+      "ep507",
+      "ep508",
+      "ep5final",
+      "ep601",
+      "ep602",
+      "ep603",
+      "ep604",
+      "ep605",
+      "ep606",
+      "ep607",
+      "ep608",
+      "ep609",
+      "ep610",
+      "ep701",
+      "ep702",
+      "ep703",
+      "ep704",
+      "ep705",
+      "ep706",
+      "ep707",
+      "ep708",
+      "ep709",
+      "ep710",
+      "anime101",
+      "anime102",
+      "anime103",
+      "anime104",
+      "anime105",
+      "anime106",
+      "anime107",
+      "anime108",
+      "anime109",
+      "anime110",
+      "anime110raidbossgiantbug",
+      "v2.35.0",
+      "v2.36.0",
+      "v2.37.0",
+      "anatomyparkbundle2",
+      "v2.38.0",
+      "froopylandbundle2",
+      "ep801",
+      "ep802",
+      "ep803",
+      "ep804",
+      "ep805",
+      "ep806",
+      "ep807",
+      "ep808",
+      "ep809",
+      "ep810",
+      "psh027"
+    ]
+  },
+  "version": "1011"
+}
