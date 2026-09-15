@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="" alt="Server Status" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fproject-pocket-mortys-status.conspiracyrick.workers.dev%2F&style=for-the-badge" alt="Server Status" />
   <img src="https://img.shields.io/badge/Project-Work%20In%20Progress-yellow?style=for-the-badge" alt="Project Status" />
 </p>
 
