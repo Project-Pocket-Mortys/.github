@@ -10,14 +10,12 @@
   <img src="https://img.shields.io/badge/Project-Work%20In%20Progress-yellow?style=for-the-badge" alt="Project Status" />
 </p>
 
-This guide explains how to restore online functionality by replacing:
-```
-global-metadata.dat
-```
+### 👉 **[Official App (Google Play)](https://play.google.com/store/apps/details?id=com.turner.pocketmorties&hl=en)**
 
-If you cannot get it to work you can install the APK.
+### 👉 **[Official App (Appstore)](https://apps.apple.com/us/app/rick-and-morty-pocket-mortys/id992640880)**
 
-- ConspiracyRick.com Domain Name
+---
+
 - Achievement Support
 - 32 Bit Support
 - Fixed Morty Defense bug
@@ -32,129 +30,10 @@ If you cannot get it to work you can install the APK.
 - Missing UI features like the Shop icon and displaying currency.
 
 Works on:
-- 📱 Android phones (iPhone, Pixel, Samsung, Nothing, Xiaomi, etc.)
+- 📱 Android phones & iPhone
 - 📟 Tablets
-- 🖥️ BlueStacks Android emulator for Windows and macOS
-
-## 📱 Install Pocket Mortys
-
-### 👉 **[Official App (Google Play)](https://play.google.com/store/apps/details?id=com.turner.pocketmorties&hl=en)**
-
-### 👉 **[Official App (Appstore)](https://apps.apple.com/us/app/rick-and-morty-pocket-mortys/id992640880)**
-
-## 📥 Required File
-
-### 👉 **[Download Android global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
-
-### 👉 **[Download iOS global-metadata.dat](https://github.com/Project-Pocket-Mortys/.github/releases/download/Android-Metadata/global-metadata.dat)**
+- 🖥️ Android emulators for Windows and macOS
 
 ---
 
-# ⚠️ Important Warnings
-
-- Android 11+ restricts access to `Android/data`
-- ADB cannot always write directly to game folders
-- Some devices require manual file movement
-- Root is NOT required but may improve compatibility
-- BlueStacks may block direct filesystem writes depending on version
-
----
-
-# iPhone instructions (Coming soon!)
-
-# Android instructions
-
-# 📦 Method 1 — File Manager (Easiest)
-
-Download:
-```
-global-metadata.dat
-```
-
-Move it to:
-```
-Internal Storage / Android / data / com.turner.pocketmorties / files / il2cpp / Metadata /
-```
-
-If folders don’t exist, create them manually.
-
-Restart the game.
-
----
-
-# 🔌 Method 2 — ADB (Universal Method)
-
-## 📥 Install ADB Platform Tools
-
-👉 **[Download Official Platform Tools](https://developer.android.com/tools/releases/platform-tools)**
-
-Verify:
-```bash
-adb version
-```
-
-Enable USB Debugging on phone.
-
-Connect device:
-```bash
-adb devices
-```
-
-Push file:
-```bash
-adb push "C:\Users\yourpcusername\Downloads\global-metadata.dat" /sdcard/Android/data/com.turner.pocketmorties/files/il2cpp/Metadata/
-```
-
----
-
-# 🖥️ Method 3 — BlueStacks Emulator
-
-Enable ADB in BlueStacks settings.
-
-Connect:
-```bash
-adb connect 127.0.0.1:5555
-adb devices
-```
-
-Push file:
-```bash
-adb push global-metadata.dat /sdcard/Download/
-```
-
-Move via shell:
-```bash
-adb shell
-cp /sdcard/Download/global-metadata.dat /sdcard/Android/data/com.turner.pocketmorties/files/il2cpp/Metadata/
-```
-
----
-
-# 🧠 Storage Mapping
-
-| Name | Path |
-|------|------|
-| Internal Storage | /sdcard/ |
-| Download | /sdcard/Download/ |
-| Android Data | /sdcard/Android/data/ |
-
----
-
-# 🚀 Recommended Workflow
-
-PC → ADB push → /sdcard/Download → Manual move
-
----
-
-# ❗ Troubleshooting
-
-- Operation not permitted → Android blocks Android/data
-- File not found → wrong directory
-- ADB not detected → USB debugging not enabled
-
----
-
-# 💡 Notes
-
-- /sdcard/ = Internal Storage
-- Android/data is restricted on modern Android versions
+# iPhone sideloading instructions (Coming soon!)
