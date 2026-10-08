@@ -22,13 +22,13 @@ If you cannot get it to work you can install the APK.
 - 32 Bit Support
 - Fixed Morty Defense bug
 
-👉 [Android Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/Pocket.Mortys.V2.41.0.apk)
+👉 [Android Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.41.0/pocket_mortys_v2.41.0.apk)
 - Missing UI features like the Shop icon and displaying currency.
 
-👉 [Android Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/Pocket.Mortys.V2.40.2.apk)
+👉 [Android Version: 2.40.2](https://github.com/Project-Pocket-Mortys/.github/releases/download/V2.40.2/pocket_mortys_v2.40.2.apk)
 - Has UI features.
 
-👉 [iOS Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/iOS/Pocket.Mortys-2.41.0.ipa)
+👉 [iOS Version: 2.41.0](https://github.com/Project-Pocket-Mortys/.github/releases/download/iOS/pocket_mortys_v2.41.0.ipa)
 - Missing UI features like the Shop icon and displaying currency.
 
 Works on:
