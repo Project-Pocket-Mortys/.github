@@ -8,6 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fproject-pocket-mortys-status.conspiracyrick.workers.dev%2F&style=for-the-badge" alt="Server Status" />
   <img src="https://img.shields.io/badge/Project-Work%20In%20Progress-yellow?style=for-the-badge" alt="Project Status" />
+  <img src="https://img.shields.io/github/downloads/Project-Pocket-Mortys/.github/total?style=for-the-badge" alt="Downloads" />
 </p>
 
 ### 👉 **[Official App (Google Play)](https://play.google.com/store/apps/details?id=com.turner.pocketmorties&hl=en)**
